@@ -1,3 +1,9 @@
+git clone https://github.com/sonyxperiadev/camera.git
+cd ~/camera
+  wget https://github.com/SonyCM/android_hardware_sony_camera/commit/c3cf90fc7d5d3f9bfe097b1363d415250963f380.patch
+  patch -p1 < c3cf90fc7d5d3f9bfe097b1363d415250963f380.patch
+cd ~
+
 git clone https://github.com/sonyxperiadev/device-sony-common.git
 cd ~/device-sony-common
   wget https://github.com/SonyCM/android_device_sony_common/commit/90b4a4d74e18938293889a5b4373243916b02534.patch
