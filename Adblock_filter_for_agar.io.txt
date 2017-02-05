@@ -2,6 +2,7 @@ agar.io###advertisement
 agar.io###agarYoutube
 agar.io###openfl-content
 agar.io###openfl-overlay
+agar.io##.agario-panel-dailyquests
 agar.io##.agario-profile-panel
 agar.io##.agario-promo-container
 agar.io##.agario-shop-panel
