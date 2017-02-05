@@ -7,3 +7,5 @@ agar.io##.agario-panel.agario-side-panel.agario-shop-panel
 agar.io##.agario-promo-container
 agar.io##.diep-cross
 agar.io##.outlined-text.connecting-text
+agar.io##.tosBox.left
+agar.io##.tosBox.right
