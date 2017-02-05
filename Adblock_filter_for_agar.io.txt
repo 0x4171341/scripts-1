@@ -1,11 +1,14 @@
-agar.io###openfl-content
-agar.io##.disabler
-agar.io##.agario-panel.agario-side-panel.agario-shop-panel
+agar.io##.agario-panel.agario-side-panel.agario-profile-panel
 agar.io###dailyquests-panel
 agar.io##.agario-panel.agario-side-panel.agario-panel-dailyquests
-agar.io##.agario-panel.agario-side-panel.agario-profile-panel
+agar.io##.agario-panel.agario-side-panel.agario-shop-panel
 agar.io##.agario-promo
 agar.io##.agario-promo-container
+||agar.io/img/SP1-WEV-WeB_Incentive-v1.png
 agar.io##.diep-cross
 agar.io###advertisement
+||youtube.com/subscribe_embed?usegapi=1&channelid=UCC6hurPo_LxL7C0YFYgYnIw&layout=default&count=default&hl=en-US&origin=http%3A%2F%2Fagar.io&gsrc=3p&ic=1&jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en_GB.el0l_L6or_s.O%2Fm%3D__features__%2Fam%3DAQ%2Frt%3Dj%2Fd%3D1%2Frs%3DAGLTcCO7n9n_zJSmNEXZJrimkXwXatqvTQ
+agar.io###___ytsubscribe_0
+||facebook.com/v2.2/plugins/like.php?action=like&app_id=677505792353827&channel=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FSh-3BhStODe.js%3Fversion%3D42%23cb%3Df1eb9601dc02d98%26domain%3Dagar.io%26origin%3Dhttp%253A%252F%252Fagar.io%252Ff19b31aa24e90c%26relation%3Dparent.parent&container_width=0&href=https%3A%2F%2Fwww.facebook.com%2Fplayagar.io&layout=button&locale=en_US&sdk=joey&share=true&show_faces=true
+agar.io##div[style="float: right; margin-top: 10px; height: 40px;"]
 agar.io##.outlined-text.connecting-text
