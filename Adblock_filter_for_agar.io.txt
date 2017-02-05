@@ -1,2 +1,11 @@
 agar.io###openfl-content
-agar.io###openfl-overlay
+agar.io##.disabler
+agar.io##.agario-panel.agario-side-panel.agario-shop-panel
+agar.io###dailyquests-panel
+agar.io##.agario-panel.agario-side-panel.agario-panel-dailyquests
+agar.io##.agario-panel.agario-side-panel.agario-profile-panel
+agar.io##.agario-promo
+agar.io##.agario-promo-container
+agar.io##.diep-cross
+agar.io###advertisement
+agar.io##.outlined-text.connecting-text
