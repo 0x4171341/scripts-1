@@ -1,9 +1,10 @@
 agar.io###advertisement
+agar.io###agarYoutube
 agar.io###dailyquests-panel
 agar.io###openfl-content
 agar.io###openfl-overlay
-agar.io##.agario-panel.agario-side-panel.agario-profile-panel
-agar.io##.agario-panel.agario-side-panel.agario-shop-panel
+agar.io##.agario-profile-panel
+agar.io##.agario-shop-panel
 agar.io##.agario-promo-container
 agar.io##.diep-cross
 agar.io##.outlined-text
