@@ -1,5 +1,7 @@
 agar.io###advertisement
 agar.io###dailyquests-panel
+agar.io###openfl-content
+agar.io###openfl-overlay
 agar.io##.agario-panel.agario-side-panel.agario-profile-panel
 agar.io##.agario-panel.agario-side-panel.agario-shop-panel
 agar.io##.agario-promo-container
