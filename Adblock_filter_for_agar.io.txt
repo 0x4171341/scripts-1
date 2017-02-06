@@ -7,5 +7,6 @@ agar.io##.agario-profile-panel
 agar.io##.agario-promo-container
 agar.io##.agario-shop-panel
 agar.io##.diep-cross
+agar.io##.fb-like
 agar.io##.outlined-text
 agar.io##.tosBox
