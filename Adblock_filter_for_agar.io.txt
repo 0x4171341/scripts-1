@@ -1,13 +1,7 @@
 agar.io###advertisement
 agar.io###agarYoutube
-agar.io###mcbanners-container
-agar.io###openfl-content
-agar.io###openfl-overlay
 agar.io##.agario-panel-dailyquests
 agar.io##.agario-profile-panel
-agar.io##.agario-promo-container
+agar.io##.agario-promo
 agar.io##.agario-shop-panel
-agar.io##.diep-cross
-agar.io##.fb-like
-agar.io##.outlined-text
 agar.io##.tosBox
