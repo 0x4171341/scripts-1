@@ -1,5 +1,6 @@
 agar.io###advertisement
 agar.io###agarYoutube
+agar.io###mcbanners-container
 agar.io###openfl-content
 agar.io###openfl-overlay
 agar.io##.agario-panel-dailyquests
