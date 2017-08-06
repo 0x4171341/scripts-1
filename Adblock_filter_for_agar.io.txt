@@ -4,4 +4,5 @@ agar.io##.agario-panel-dailyquests
 agar.io##.agario-profile-panel
 agar.io##.agario-promo-container
 agar.io##.agario-shop-panel
+agar.io##.fb-like
 agar.io##.tosBox
