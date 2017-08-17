@@ -1,4 +1,4 @@
-cd Downloads && wget https://github.com/sk89q/WorldEdit/archive/master.zip
+cd Downloads && wget https://github.com/sk89q/WorldEdit/archive/master.zip --no-cache
 unzip master.zip && cd WorldEdit-master
 wget https://github.com/TotalFreedom/TF-WorldEdit/commit/c766e92ae941a67fc70dc65f6988d529e9441201.patch
 patch -p1 < c766e92ae941a67fc70dc65f6988d529e9441201.patch
