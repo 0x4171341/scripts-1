@@ -21,5 +21,5 @@ wget https://libraries.minecraft.net/com/mojang/text2speech/1.10.3/text2speech-1
 # ca.weblite:java-objc-bridge:1.0.0
 cd ~ && cd .minecraft/libraries && mkdir -p ca/weblite/java-objc-bridge/1.0.0 && cd .minecraft/libraries/ca/weblite/java-objc-bridge/1.0.0 \
 wget https://libraries.minecraft.net/ca/weblite/java-objc-bridge/1.0.0/java-objc-bridge-1.0.0.jar \
-wget https://libraries.minecraft.net/ca/weblite/java-objc-bridge/1.0.0/java-objc-bridge-1.0.0-natives-osx.jar
+wget https://libraries.minecraft.net/ca/weblite/java-objc-bridge/1.0.0/java-objc-bridge-1.0.0-natives-osx.jar \
 cd ~
