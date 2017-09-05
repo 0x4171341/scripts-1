@@ -6,7 +6,7 @@ wget launcher.mojang.com/mc/launcher/jar/66d552b9ce72dc495a2ec8ef2dcfb7a1d407752
 java -jar Minecraft.jar && java -jar forge-1.12.1-14.22.0.2469-installer.jar && rm forge-1.12.1-14.22.0.2469-installer.jar.log &&
 java -jar Minecraft.jar
 
-cd ~ && cd .minecraft && && rm -r server-resource-packs launcher.jar launcher.pack.lzma launcher_profiles.json
+cd ~ && cd .minecraft && rm -r server-resource-packs launcher.jar launcher.pack.lzma launcher_profiles.json
 
 # org.lwjgl.lwjgl:lwjgl-platform:2.9.4-nightly-20150209
 cd ~ && cd .minecraft/libraries/org/lwjgl/lwjgl/lwjgl-platform/2.9.4-nightly-20150209 &&
