@@ -25,3 +25,5 @@ cd ~
 #wget -d https://libraries.minecraft.net/ca/weblite/java-objc-bridge/1.0.0/java-objc-bridge-1.0.0.jar &&
 #wget -d https://libraries.minecraft.net/ca/weblite/java-objc-bridge/1.0.0/java-objc-bridge-1.0.0-natives-osx.jar &&
 cd ~
+
+mv .minecraft Documents && mv launcher.jar Documents && zip -q -9 100d2d030f50319275c76e9ec8d03771 .
