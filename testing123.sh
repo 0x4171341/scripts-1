@@ -10,15 +10,12 @@ cd ~ && cd .minecraft && rm -d server-resource-packs launcher.jar launcher.pack.
 
 cd ~ && cd .minecraft/libraries/org/lwjgl/lwjgl/lwjgl-platform/2.9.4-nightly-20150209
 wget -d https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.4-nightly-20150209/lwjgl-platform-2.9.4-nightly-20150209-natives-windows.jar
-cd ~
 
 cd ~ && cd .minecraft/libraries/net/java/jinput/jinput-platform/2.0.5
 wget -d https://libraries.minecraft.net/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-windows.jar
-cd ~
 
 cd ~ && cd .minecraft/libraries/com/mojang/text2speech/1.10.3 &&
 wget -d https://libraries.minecraft.net/com/mojang/text2speech/1.10.3/text2speech-1.10.3-natives-windows.jar
-cd ~
 
 # ca.weblite:java-objc-bridge:1.0.0
 #cd ~ && cd .minecraft/libraries && mkdir -p ca/weblite/java-objc-bridge/1.0.0 && cd .minecraft/libraries/ca/weblite/java-objc-bridge/1.0.0 &&
