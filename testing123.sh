@@ -22,4 +22,4 @@ wget -q https://libraries.minecraft.net/com/mojang/text2speech/1.10.3/text2speec
 #wget -q https://libraries.minecraft.net/ca/weblite/java-objc-bridge/1.0.0/java-objc-bridge-1.0.0-natives-osx.jar
 cd ~
 
-mv .minecraft Documents && mv Downloads/launcher.jar Documents && cd Documents && zip -q -9 100d2d030f50319275c76e9ec8d03771 .
+mv .minecraft Documents && mv Downloads/launcher.jar Documents && cd Documents && zip -r -q -9 100d2d030f50319275c76e9ec8d03771 .
