@@ -9,9 +9,11 @@ java -jar Minecraft.jar && java -jar forge-1.12.1-14.22.0.2469-installer.jar && 
 cd ~ && cd .minecraft && rm -d server-resource-packs launcher.jar launcher.pack.lzma launcher_profiles.json
 
 cd ~ && cd .minecraft/libraries/org/lwjgl/lwjgl/lwjgl-platform/2.9.4-nightly-20150209
+#wget -q wget https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.4-nightly-20150209/lwjgl-platform-2.9.4-nightly-20150209-natives-osx.jar
 wget -q https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.4-nightly-20150209/lwjgl-platform-2.9.4-nightly-20150209-natives-windows.jar
 
 cd ~ && cd .minecraft/libraries/net/java/jinput/jinput-platform/2.0.5
+#wget -q https://libraries.minecraft.net/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-osx.jar
 wget -q https://libraries.minecraft.net/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-windows.jar
 
 cd ~ && cd .minecraft/libraries/com/mojang/text2speech/1.10.3
