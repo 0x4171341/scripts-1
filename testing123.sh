@@ -23,3 +23,4 @@ wget -q https://libraries.minecraft.net/com/mojang/text2speech/1.10.3/text2speec
 cd ~
 
 mv .minecraft Documents && mv Downloads/launcher.jar Documents && cd Documents && zip -r -q -9 100d2d030f50319275c76e9ec8d03771 .
+cd ~
