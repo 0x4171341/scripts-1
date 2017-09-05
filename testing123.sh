@@ -17,7 +17,6 @@ wget -d https://libraries.minecraft.net/net/java/jinput/jinput-platform/2.0.5/ji
 cd ~ && cd .minecraft/libraries/com/mojang/text2speech/1.10.3
 wget -d https://libraries.minecraft.net/com/mojang/text2speech/1.10.3/text2speech-1.10.3-natives-windows.jar
 
-# ca.weblite:java-objc-bridge:1.0.0
 #cd ~ && cd .minecraft/libraries && mkdir -p ca/weblite/java-objc-bridge/1.0.0 && cd ca/weblite/java-objc-bridge/1.0.0
 #wget -d https://libraries.minecraft.net/ca/weblite/java-objc-bridge/1.0.0/java-objc-bridge-1.0.0.jar
 #wget -d https://libraries.minecraft.net/ca/weblite/java-objc-bridge/1.0.0/java-objc-bridge-1.0.0-natives-osx.jar
