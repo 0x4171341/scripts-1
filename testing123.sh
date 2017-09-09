@@ -26,7 +26,6 @@ cd ~ && cd .minecraft/libraries && mkdir -p org/lwjgl/lwjgl/lwjgl-platform/2.9.2
 wget -q https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.2-nightly-20140822/lwjgl-platform-2.9.2-nightly-20140822-natives-osx.jar
 
 cd ~ && cd .minecraft/libraries/org/lwjgl/lwjgl/lwjgl-platform/2.9.4-nightly-20150209
-#wget -q https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.4-nightly-20150209/lwjgl-platform-2.9.4-nightly-20150209-natives-osx.jar
 wget -q https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.4-nightly-20150209/lwjgl-platform-2.9.4-nightly-20150209-natives-windows.jar
 
 cd ~ && cd .minecraft/libraries/net/java/jinput/jinput-platform/2.0.5
