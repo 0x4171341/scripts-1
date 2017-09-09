@@ -33,5 +33,5 @@ wget -q https://libraries.minecraft.net/net/java/jinput/jinput-platform/2.0.5/ji
 wget -q https://libraries.minecraft.net/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-windows.jar
 cd ~
 
-mv .minecraft Documents && mv Downloads/launcher.jar Documents && cd Documents && zip -r -q -9 f66feaa0d50c0dca2a4f1428a0cbaea4 .
+mv .minecraft Documents && mv Downloads/launcher.jar Documents && cd Documents && zip -r -q -9 c131589c9de8bfa3257577c536d2900d .
 cd ~
