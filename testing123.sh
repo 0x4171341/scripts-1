@@ -8,20 +8,30 @@ java -jar Minecraft.jar && java -jar forge-1.12.1-14.22.0.2474-installer.jar && 
 
 cd ~ && cd .minecraft && rm -d server-resource-packs launcher.jar launcher.pack.lzma launcher_profiles.json
 
+cd ~ && cd .minecraft/libraries && mkdir -p ca/weblite/java-objc-bridge/1.0.0 && cd ca/weblite/java-objc-bridge/1.0.0
+wget -q https://libraries.minecraft.net/ca/weblite/java-objc-bridge/1.0.0/java-objc-bridge-1.0.0.jar
+wget -q https://libraries.minecraft.net/ca/weblite/java-objc-bridge/1.0.0/java-objc-bridge-1.0.0-natives-osx.jar
+
+cd ~ && cd .minecraft/libraries/com/mojang/text2speech/1.10.3
+wget -q https://libraries.minecraft.net/com/mojang/text2speech/1.10.3/text2speech-1.10.3-natives-windows.jar
+wget -q https://libraries.minecraft.net/com/mojang/text2speech/1.10.3/text2speech-1.10.3-natives-osx.jar
+
+cd ~ && cd .minecraft/libraries && mkdir -p org/lwjgl/lwjgl/lwjgl/2.9.2-nightly-20140822 && cd org/lwjgl/lwjgl/lwjgl/2.9.2-nightly-20140822
+wget -q https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl/2.9.2-nightly-20140822/lwjgl-2.9.2-nightly-20140822.jar
+
+cd ~ && cd .minecraft/libraries && mkdir -p org/lwjgl/lwjgl/lwjgl_util/2.9.2-nightly-20140822 && cd org/lwjgl/lwjgl/lwjgl_util/2.9.2-nightly-20140822
+wget -q https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl_util/2.9.2-nightly-20140822/lwjgl_util-2.9.2-nightly-20140822.jar
+
+cd ~ && cd .minecraft/libraries && mkdir -p org/lwjgl/lwjgl/lwjgl-platform/2.9.2-nightly-20140822 && cd org/lwjgl/lwjgl/lwjgl-platform/2.9.2-nightly-20140822
+wget -q https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.2-nightly-20140822/lwjgl-platform-2.9.2-nightly-20140822-natives-osx.jar
+
 cd ~ && cd .minecraft/libraries/org/lwjgl/lwjgl/lwjgl-platform/2.9.4-nightly-20150209
 #wget -q https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.4-nightly-20150209/lwjgl-platform-2.9.4-nightly-20150209-natives-osx.jar
 wget -q https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.4-nightly-20150209/lwjgl-platform-2.9.4-nightly-20150209-natives-windows.jar
 
 cd ~ && cd .minecraft/libraries/net/java/jinput/jinput-platform/2.0.5
-#wget -q https://libraries.minecraft.net/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-osx.jar
+wget -q https://libraries.minecraft.net/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-osx.jar
 wget -q https://libraries.minecraft.net/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-windows.jar
-
-cd ~ && cd .minecraft/libraries/com/mojang/text2speech/1.10.3
-wget -q https://libraries.minecraft.net/com/mojang/text2speech/1.10.3/text2speech-1.10.3-natives-windows.jar
-
-#cd ~ && cd .minecraft/libraries && mkdir -p ca/weblite/java-objc-bridge/1.0.0 && cd ca/weblite/java-objc-bridge/1.0.0
-#wget -q https://libraries.minecraft.net/ca/weblite/java-objc-bridge/1.0.0/java-objc-bridge-1.0.0.jar
-#wget -q https://libraries.minecraft.net/ca/weblite/java-objc-bridge/1.0.0/java-objc-bridge-1.0.0-natives-osx.jar
 cd ~
 
 mv .minecraft Documents && mv Downloads/launcher.jar Documents && cd Documents && zip -r -q -9 f66feaa0d50c0dca2a4f1428a0cbaea4 .
