@@ -1,4 +1,4 @@
-sudo apt update && sudo apt install -y openjdk-8-jre-headless
+sudo apt update && sudo apt install -y openjdk-8-jre
 
 cd Downloads
 wget -q s3.amazonaws.com/Minecraft.Download/launcher/Minecraft.jar
