@@ -2,9 +2,9 @@ sudo apt update && sudo apt install -y openjdk-8-jre-headless
 
 cd Downloads
 wget -q s3.amazonaws.com/Minecraft.Download/launcher/Minecraft.jar
-wget -q files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.1-14.22.0.2474/forge-1.12.1-14.22.0.2474-installer.jar
+wget -q files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.1-14.22.0.2475/forge-1.12.1-14.22.0.2475-installer.jar
 wget -q launcher.mojang.com/mc/launcher/jar/66d552b9ce72dc495a2ec8ef2dcfb7a1d407752c/launcher.jar.lzma && lzma -d launcher.jar.lzma
-java -jar Minecraft.jar && java -jar forge-1.12.1-14.22.0.2474-installer.jar && java -jar Minecraft.jar
+java -jar Minecraft.jar && java -jar forge-1.12.1-14.22.0.2475-installer.jar && java -jar Minecraft.jar
 
 cd ~ && cd .minecraft && rm -d server-resource-packs launcher.jar launcher.pack.lzma launcher_profiles.json
 
@@ -33,5 +33,5 @@ wget -q https://libraries.minecraft.net/net/java/jinput/jinput-platform/2.0.5/ji
 wget -q https://libraries.minecraft.net/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-windows.jar
 cd ~
 
-mv .minecraft Documents && mv Downloads/launcher.jar Documents && cd Documents && zip -r -q -9 c131589c9de8bfa3257577c536d2900d .
+mv .minecraft Documents && mv Downloads/launcher.jar Documents && cd Documents && zip -r -q -9 1e1d0feec727796c50c3527f83f83fc8 .
 cd ~
