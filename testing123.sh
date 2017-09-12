@@ -2,9 +2,9 @@ sudo apt update && sudo apt install -y openjdk-8-jre
 
 cd Downloads
 wget -q s3.amazonaws.com/Minecraft.Download/launcher/Minecraft.jar
-wget -q files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.1-14.22.1.2478/forge-1.12.1-14.22.1.2478-installer.jar
+wget -q files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.1-14.22.1.2479/forge-1.12.1-14.22.1.2479-installer.jar
 wget -q launcher.mojang.com/mc/launcher/jar/66d552b9ce72dc495a2ec8ef2dcfb7a1d407752c/launcher.jar.lzma && lzma -d launcher.jar.lzma
-java -jar Minecraft.jar && java -jar forge-1.12.1-14.22.1.2478-installer.jar && java -jar Minecraft.jar
+java -jar Minecraft.jar && java -jar forge-1.12.1-14.22.1.2479-installer.jar && java -jar Minecraft.jar
 
 cd ~ && cd .minecraft && rm -d server-resource-packs launcher.jar launcher.pack.lzma launcher_profiles.json
 
